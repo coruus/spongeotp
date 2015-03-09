@@ -1,0 +1,4 @@
+[submodule "keccak-tiny"]
+	path = keccak-tiny
+	url = https://github.com/dlg-yahoo/keccak-tiny
+	branch = shakemac256
