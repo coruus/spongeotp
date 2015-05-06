@@ -1,3 +1,6 @@
+// Copyright 2015 Yahoo! Inc.
+// LICENSE: Apache2
+
 #include "keccak-tiny/shakemac.h"
 
 #include <time.h>
